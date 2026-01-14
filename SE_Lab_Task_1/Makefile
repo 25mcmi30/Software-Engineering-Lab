@@ -3,11 +3,11 @@ CFG = -Wall -Wextra -std=c11
 
 all: student_database
 
-student_database: student_database.o
-	$(CC) $(CFG) -o student_database student_database.o
+student_database: student_database.o mylib.o
+	$(CC) $(CFG) -o student_database student_database.o mylib.o
 
-student_database.o: student_database.c
-	$(CC) $(CFG) -c student_database.c
+%.o: %.c mylib.h
+	$(CC) $(CFG) -c $<
 
 clean:
-	rm -f *.o student_database
+	rm -f *.o student_database output.txt

@@ -1,0 +1,38 @@
+------------------------------------------
+STUDENT RESULT REPORT
+------------------------------------------
+
+Student ID      Name             S1-Minor    S1-Major  S2-Minor    S2-Major  S3-Minor    S3-Major  S4-Minor    S4-Major  S5-Minor    S5-Major    Total   Percent   Grade     CGPA
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+25mcmi001       Aman                 32         45         28         52         35         48         30         55         33         50         408    81.60      A       8.00  
+25mcmi002       Bhavna               25         38         20         42         28         35         22         40         24         36         310    62.00      C       6.00  
+25mcmi003       Chetan               38         58         35         55         40         60         36         52         39         56         469    93.80      O       10.00 
+25mcmi004       Divya                18         25         22         30         16         28         20         32         19         26         236    47.20      F       0.00  
+25mcmi005       Eshan                35         52         32         48         38         54         34         50         36         51         430    86.00      +       9.00  
+25mcmi006       Fatima               28         42         26         45         30         48         25         40         29         44         357    71.40      B       7.00  
+25mcmi007       Gaurav               40         60         38         58         39         59         40         60         38         57         489    97.80      O       10.00 
+25mcmi008       Heena                22         35         24         38         20         36         23         37         21         34         290    58.00      D       5.00  
+25mcmi009       Ishan                36         55         34         52         37         56         35         53         38         54         450    90.00      O       10.00 
+25mcmi010       Jaya                 30         48         28         50         32         49         31         47         29         46         390    78.00      A       8.00  
+
+
+--------------
+STATISTICS
+--------------
+
+Total Students: 10
+Class Average Percentage: 76.58%
+Highest Percentage: 97.80%
+Lowest Percentage: 47.20%
+
+Grade Distribution: 
+ O  (>= 90): 3 students
+ A+ (85-90): 1 students
+ A  (75-85): 2 students
+ B+ (65-75): 1 students
+ B  (60-65): 1 students
+ C  (55-60): 1 students
+ D  (50-55): 0 students
+ F  (< 50 ): 1 students
+
+------------------------------------------
